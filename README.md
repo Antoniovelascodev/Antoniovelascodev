@@ -28,11 +28,11 @@ And remember: don't judge a book by its cover—or a developer by their GitHub!
 <!--projects-->
 ## Projects
 <a href="https://github.com/antoniovelascodev/CheckHub">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=antoniovelascodev&repo=Website-Blocker&theme=tokyonight" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=antoniovelascodev&repo=CheckHub&theme=tokyonight" />
 </a>  
 
 <a href="https://github.com/antoniovelascodev/KartMania-Web">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=antoniovelascodev&repo=Alien-Shooter&theme=tokyonight" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=antoniovelascodev&repo=KartMania-Web&theme=tokyonight" />
 </a> 
 
 
