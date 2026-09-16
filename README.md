@@ -52,9 +52,9 @@ And remember: don't judge a book by its cover—or a developer by their GitHub!
   <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=antoniovelascodev&theme=dark&hide_border=true"/>
 </p>
 	<!--views-->
-<h5 align="center"> <h5>Profile Views:</h5> <img src="https://komarev.com/ghpvc/?username=antoniovelascodev&label=Profile%20views&color=0e75b6&style=flat"
-  alt="antoniovelascodev" /> 
-</h5>
+<p align="center"> Profile Views <img src="https://komarev.com/ghpvc/?username=antoniovelascodev&label=Profile%20views&color=0e75b6&style=flat"
+  alt="antoniovelascodev"/> 
+</p>
 </details>
 
 ### Connect with Me
