@@ -21,9 +21,7 @@
 <h5>OS</h5>
 <img src="https://skillicons.dev/icons?i=windows,linux&perline=14" />    
 
-
 <!--github stats--> 
-### ⚙️ &nbsp;GitHub Analytics
 <p align="center">
   <a href="https://github.com/antoniovelascodev">
     <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=antoniovelascodev&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
@@ -39,7 +37,6 @@
 
 
 ### 🤝🏻 &nbsp;Connect with Me
-
 <p align="center">
   <a href="mailto:antoniovelasco.dev@gmail.com"><img src="https://img.shields.io/badge/-antoniovelasco.dev@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
   <a href="https://www.linkedin.com/in/antonio-velasco-wilcock/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
