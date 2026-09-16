@@ -14,9 +14,12 @@
 <!--icons-->
 <h5>Backend</h5>
 <img src="https://skillicons.dev/icons?i=java,mysql&perline=14" />      
-<br>
 <h5>Frontend</h5>
 <img src="https://skillicons.dev/icons?i=html,css&perline=14" />    
+<h5>Tools</h5>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,linux,windows,godot,eclipse&perline=14" />    
+
+
 
 <p align="center">
   <a href="https://skillicons.dev">
