@@ -42,11 +42,10 @@ And remember: don't judge a book by its cover—or a developer by their GitHub!
   alt="antoniovelascodev" /> 
 </p>
 
-### 🤝🏻 &nbsp;Connect with Me
-<p align="center">
-  <a href="mailto:antoniovelasco.dev@gmail.com"><img src="https://img.shields.io/badge/-antoniovelasco.dev@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
-  <a href="https://www.linkedin.com/in/antonio-velasco-wilcock/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-</p>
+### Connect with Me
+<a href="mailto:antoniovelasco.dev@gmail.com"><img src="https://img.shields.io/badge/-antoniovelasco.dev@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/antonio-velasco-wilcock/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+
 
 </div>
  
