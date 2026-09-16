@@ -1,10 +1,11 @@
 ### <h1> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> Hey, this is my github, i hope you like what you see here! </h1>
 
-<!--views-->
-<p align="right"> <h5>Profile Views:</h5> <img src="https://komarev.com/ghpvc/?username=antoniovelascodev&label=Profile%20views&color=0e75b6&style=flat"
-  alt="antoniovelascodev" /> 
-</p>
+## About me
 
+* Currently studying second year of Multiplatform Developer (DAM)
+
+Outside of work, I enjoy playing football, padel, solving escape rooms, and trying my hand at fishing. Driven by a passion for continuous improvement, I work hard to stay ahead and reach the next level. 
+And remember: don't judge a book by its cover—or a developer by their GitHub!
 
 <div id="user-content-toc">
   <ul align="center">
@@ -35,6 +36,10 @@
   <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=antoniovelascodev&theme=dark&hide_border=true"/>
 </p>
 
+<!--views-->
+<p align="right"> <h5>Profile Views:</h5> <img src="https://komarev.com/ghpvc/?username=antoniovelascodev&label=Profile%20views&color=0e75b6&style=flat"
+  alt="antoniovelascodev" /> 
+</p>
 
 ### 🤝🏻 &nbsp;Connect with Me
 <p align="center">
