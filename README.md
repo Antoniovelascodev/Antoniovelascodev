@@ -5,7 +5,7 @@
 * Currently studying second year of Multiplatform Developer (DAM)
 
 Outside of work, I enjoy playing football, padel, solving escape rooms, and trying my hand at fishing. Driven by a passion for continuous improvement I always work hard to stay ahead and reach the next level. 
-<br>
+<br><br>
 And remember: don't judge a book by its cover—or a developer by their GitHub!
 
 <div id="user-content-toc">
