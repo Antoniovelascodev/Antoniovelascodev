@@ -55,7 +55,7 @@ And remember: <i>"don't judge a book by its cover or a developer by their GitHub
 <p align="center"><img src="https://komarev.com/ghpvc/?username=antoniovelascodev&label=Profile%20views&color=0e75b6&style=flat"alt="antoniovelascodev"/> </p>
 </details>
 
-### Connect with Me
+## Connect with Me
 <a href="mailto:antoniovelasco.dev@gmail.com"><img src="https://img.shields.io/badge/-antoniovelasco.dev@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
 <a href="https://www.linkedin.com/in/antonio-velasco-wilcock/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
 
