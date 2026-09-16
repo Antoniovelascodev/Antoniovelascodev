@@ -13,7 +13,12 @@
   </a>
 </p>
 
-<i>Follow me on linkedin</i><br>
+### 🤝🏻 &nbsp;Connect with Me
+
+<p align="center">
+  <a href="mailto:antoniovelasco.dev@gmail.com"><img src="https://img.shields.io/badge/-avsingh@umass.edu-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
   <a href="https://www.linkedin.com/in/antonio-velasco-wilcock/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+</p>
+
 </div>
  
