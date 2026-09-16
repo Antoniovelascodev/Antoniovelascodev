@@ -34,8 +34,9 @@ And remember: don't judge a book by its cover—or a developer by their GitHub!
 <a href="https://github.com/antoniovelascodev/KartMania-Web">
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=antoniovelascodev&repo=KartMania-Web&theme=tokyonight" />
 </a> 
+<br>
 
-
+## Stats
 <!--github stats--> 
 <p align="center">
   <a href="https://github.com/antoniovelascodev">
