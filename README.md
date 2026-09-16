@@ -37,6 +37,19 @@ And remember: don't judge a book by its cover—or a developer by their GitHub!
 <br>
 
 ## Stats
+
+<details> 
+  <summary><b>💻 GitHub Profile Stats</b></summary>
+  <br/>
+  <p align="center">
+    <a href="https://github.com/antoniovelascodev/github-readme-stats"><img alt="Antoniovelascodev's Github Stats" src="https://github-readme-stats.vercel.app/api?username=antoniovelascodev&show_icons=true&count_private=true&theme=tokyonight" height="192px"/></a>
+<br/>
+  &nbsp;
+	  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=antoniovelascodev&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="antoniovelascodev" height="192px"/>
+  <br/>
+  </p>
+</details>
+
 <!--github stats--> 
 <p align="center">
   <a href="https://github.com/antoniovelascodev">
