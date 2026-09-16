@@ -17,16 +17,10 @@
 <h5>Frontend</h5>
 <img src="https://skillicons.dev/icons?i=html,css&perline=14" />    
 <h5>Tools</h5>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,linux,windows,godot,eclipse&perline=14" />    
+<img src="https://skillicons.dev/icons?i=git,github,vscode,eclipse,unity&perline=14" />    
+<h5>OS</h5>
+<img src="https://skillicons.dev/icons?i=windows,linux&perline=14" />    
 
-
-
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,css,docker,postgres,github,html,java,js,linux,mysql,vscode&perline=14" />
-  </a>
-</p>
-<br>
 
 <!--github stats--> 
 ### ⚙️ &nbsp;GitHub Analytics
