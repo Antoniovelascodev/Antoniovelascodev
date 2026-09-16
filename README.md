@@ -48,9 +48,7 @@ And remember: don't judge a book by its cover—or a developer by their GitHub!
 	  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=antoniovelascodev&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="antoniovelascodev" height="192px"/>
   <br/>
   </p>
-</details>
 
-<!--github stats--> 
 <p align="center">
   <a href="https://github.com/antoniovelascodev">
     <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=antoniovelascodev&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
@@ -68,6 +66,11 @@ And remember: don't judge a book by its cover—or a developer by their GitHub!
 <p align="right"> <h5>Profile Views:</h5> <img src="https://komarev.com/ghpvc/?username=antoniovelascodev&label=Profile%20views&color=0e75b6&style=flat"
   alt="antoniovelascodev" /> 
 </p>
+	
+</details>
+
+<!--github stats--> 
+
 
 ### Connect with Me
 <a href="mailto:antoniovelasco.dev@gmail.com"><img src="https://img.shields.io/badge/-antoniovelasco.dev@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
