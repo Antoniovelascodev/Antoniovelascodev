@@ -17,6 +17,23 @@
     <img src="https://skillicons.dev/icons?i=git,css,docker,postgres,github,html,java,js,linux,mysql,vscode&perline=14" />
   </a>
 </p>
+<br>
+
+<!--github stats--> 
+### ⚙️ &nbsp;GitHub Analytics
+<p align="center">
+  <a href="https://github.com/antoniovelascodev">
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=antoniovelascodev&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  </a>
+  <a href="https://github.com/antoniovelascodev">
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=antoniovelascodev&layout=compact&langs_count=8&theme=algolia"/>
+  </a>
+</p>
+
+<p align="center">
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=AdityaKanoi2001&theme=dark&hide_border=true"/>
+</p>
+
 
 ### 🤝🏻 &nbsp;Connect with Me
 
