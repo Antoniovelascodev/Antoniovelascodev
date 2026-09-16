@@ -12,6 +12,8 @@
   </ul>
 </div>
 <!--icons-->
+<h5>Backend</h5>
+  <img src="https://skillicons.dev/icons?i=java,mysql&perline=14" />              
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=git,css,docker,postgres,github,html,java,js,linux,mysql,vscode&perline=14" />
