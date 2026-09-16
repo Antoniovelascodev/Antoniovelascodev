@@ -1,3 +1,4 @@
+<!--intro--> 
 ### <h1> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> Hey, this is my github, i hope you like what you see here! </h1>
 
 ## About me
@@ -13,15 +14,27 @@ And remember: don't judge a book by its cover—or a developer by their GitHub!
     <summary><h2 style="display: inline-block">This is what i know so far</h2></summary>
   </ul>
 </div>
+
 <!--icons-->
 <h5>Backend</h5>
 <img src="https://skillicons.dev/icons?i=java,mysql&perline=14" />      
 <h5>Frontend</h5>
 <img src="https://skillicons.dev/icons?i=html,css&perline=14" />    
 <h5>Tools</h5>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,eclipse,unity&perline=14" />    
+<img src="https://skillicons.dev/icons?i=docker,git,github,vscode,eclipse,unity&perline=14" />    
 <h5>OS</h5>
 <img src="https://skillicons.dev/icons?i=windows,linux&perline=14" />    
+
+<!--projects-->
+## Projects
+<a href="https://github.com/Nneji123/CheckHub">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=antoniovelascodev&repo=Website-Blocker&theme=tokyonight" />
+</a>  
+
+<a href="https://github.com/Nneji123/Alien-Shooter">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=antoniovelascodev&repo=Alien-Shooter&theme=tokyonight" />
+</a> 
+
 
 <!--github stats--> 
 <p align="center">
