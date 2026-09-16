@@ -1,5 +1,10 @@
 ### Hey, this is my github, i hope you like what you see here! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
+<!--views-->
+<p align="right"> <h3>Profile Views :-</h3> <img src="https://komarev.com/ghpvc/?username=antoniovelascodev&label=Profile%20views&color=0e75b6&style=flat"
+  alt="antoniovelascodev" /> 
+</p>
+
 
 <div id="user-content-toc">
   <ul align="center">
