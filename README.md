@@ -37,13 +37,15 @@ And remember: <i>"don't judge a book by its cover or a developer by their GitHub
 <br>
 
 <!--Tech carrer-->
-## My tech carrer 
+## My tech carrer
+
 <br>
-  <img height="100em" align="center" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ9xYQCNOgecpLpQKPhXSGDbaTVUV73fpQF2YiZUoeqbg&s=10" />  
-<summary><h5>Software Engineering Intern | Accenture
-Introductory Internship: 05, 2026 (1 month) | Full-time Placement: Jan 2027 – May 2027 (5 months)<br>
+<img height="100em" align="center" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ9xYQCNOgecpLpQKPhXSGDbaTVUV73fpQF2YiZUoeqbg&s=10" />  
+
+<h4>Software Engineering Intern | Accenture</h4>
+<h5>Introductory Internship: 05, 2026 (1 month) | Full-time Placement: Jan 2027 – May 2027 (5 months)<br>
 Dual-Phase Internship Program: Selected for an extended, two-phase technical internship supporting enterprise-level software development projects within Accenture
-Agile Collaboration: Participating in cross-functional team workflows using Agile/Scrum methodologies, code reviews, and version control best practices (Git). </h5></summary>
+Agile Collaboration: Participating in cross-functional team workflows using Agile/Scrum methodologies, code reviews, and version control best practices (Git). </h5>
 
 
 <!--stats-->
