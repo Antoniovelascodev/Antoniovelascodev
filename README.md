@@ -39,7 +39,19 @@ And remember: <i>"don't judge a book by its cover or a developer by their GitHub
 <!--Tech carrer-->
 ## My tech carrer 
   <img height="100em" align="center" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ9xYQCNOgecpLpQKPhXSGDbaTVUV73fpQF2YiZUoeqbg&s=10" />
+	<ul align="center">
+    	<summary><h5 style="display: inline-block">Software Engineering Intern | Accenture
 
+Part-time / Introductory Internship: [Month, Year] (1 month) | Full-time Placement: Jan [Year] – May [Year] (5 months)
+
+Dual-Phase Internship Program: Selected for an extended, two-phase technical internship supporting enterprise-level software development projects within Accenture.
+
+Core Development: Engaging in real-world application development, applying Object-Oriented Programming (OOP) principles, relational database management, and modern software design patterns.
+
+Agile Collaboration: Participating in cross-functional team workflows using Agile/Scrum methodologies, code reviews, and version control best practices (Git).
+
+Continuous Delivery: Contributing to the software development lifecycle (SDLC), from requirements analysis to unit testing and code deployment. </h5></summary>
+  </ul>
 
 
 <!--stats-->
