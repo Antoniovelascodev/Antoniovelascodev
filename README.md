@@ -36,6 +36,13 @@ And remember: <i>"don't judge a book by its cover or a developer by their GitHub
 </a> 
 <br>
 
+<!--Tech carrer-->
+## My tech carrer 
+  <img align="center" src="https://www.google.com/imgres?q=logo%20accenture%20png&imgurl=https%3A%2F%2Fassets.stickpng.com%2Fimages%2F6102dbf43de48b00044eb5af.png&imgrefurl=https%3A%2F%2Fwww.stickpng.com%2Fes%2Fimg%2Fdibujos-animados%2Fsmighties%2Fnuevo-logotipo-de-accenture&docid=Of-L0isoQC3YKM&tbnid=Gp8AzOvFRL60KM&vet=12ahUKEwi7s-mOs_WWAxXMVqQEHZGuNCwQnPAOegQIRRAA..i&w=2000&h=1125&hcb=2&ved=2ahUKEwi7s-mOs_WWAxXMVqQEHZGuNCwQnPAOegQIRRAA
+&theme=tokyonight" />
+
+
+
 <!--stats-->
 ## Stats
 <details> 
