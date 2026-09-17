@@ -42,15 +42,11 @@ And remember: <i>"don't judge a book by its cover or a developer by their GitHub
 	<ul align="center">
     	<summary><h5 style="display: inline-block">Software Engineering Intern | Accenture
 
-Part-time / Introductory Internship: [Month, Year] (1 month) | Full-time Placement: Jan [Year] – May [Year] (5 months)
+Introductory Internship: 05, 2026 (1 month) | Full-time Placement: Jan 2027 – May 2027 (5 months)
 
 Dual-Phase Internship Program: Selected for an extended, two-phase technical internship supporting enterprise-level software development projects within Accenture.
 
-Core Development: Engaging in real-world application development, applying Object-Oriented Programming (OOP) principles, relational database management, and modern software design patterns.
-
-Agile Collaboration: Participating in cross-functional team workflows using Agile/Scrum methodologies, code reviews, and version control best practices (Git).
-
-Continuous Delivery: Contributing to the software development lifecycle (SDLC), from requirements analysis to unit testing and code deployment. </h5></summary>
+Agile Collaboration: Participating in cross-functional team workflows using Agile/Scrum methodologies, code reviews, and version control best practices (Git). </h5></summary>
   </ul>
 
 
