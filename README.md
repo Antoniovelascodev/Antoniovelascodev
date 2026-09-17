@@ -38,7 +38,7 @@ And remember: <i>"don't judge a book by its cover or a developer by their GitHub
 
 <!--Tech carrer-->
 ## My tech carrer 
-  <img align="center" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ9xYQCNOgecpLpQKPhXSGDbaTVUV73fpQF2YiZUoeqbg&s=10" />
+  <img height="180em" align="center" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ9xYQCNOgecpLpQKPhXSGDbaTVUV73fpQF2YiZUoeqbg&s=10" />
 
 
 
