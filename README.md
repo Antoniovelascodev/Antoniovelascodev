@@ -29,7 +29,14 @@ And remember: <i>"don't judge a book by its cover or a developer by their GitHub
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,kubernetes,docker,c,vim" />
+	<h5>Backend</h5>
+	<img src="https://skillicons.dev/icons?i=java,mysql&perline=14" />      
+	<h5>Frontend</h5>
+	<img src="https://skillicons.dev/icons?i=html,css&perline=14" />    
+	<h5>Tools</h5>
+	<img src="https://skillicons.dev/icons?i=docker,git,github,vscode,eclipse,unity&perline=14" />    
+	<h5>OS</h5>
+	<img src="https://skillicons.dev/icons?i=windows,linux&perline=14" />   
   </a>
 </p>
 
