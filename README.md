@@ -25,7 +25,6 @@ And remember: <i>"don't judge a book by its cover or a developer by their GitHub
 <p align="center">OS</p>
 <p align="center"><img src="https://skillicons.dev/icons?i=windows,linux&perline=14" /></p>
 
-	<!--projects-->
 
 ## Projects
 <br>
