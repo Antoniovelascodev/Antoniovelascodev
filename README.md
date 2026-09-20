@@ -34,7 +34,8 @@ And remember: <i>"don't judge a book by its cover or a developer by their GitHub
 <img src="https://skillicons.dev/icons?i=java,postgres,vscode,spring,postman&perline=14" />      
 
 <a href="https://github.com/antoniovelascodev/KartMania-Web">
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=antoniovelascodev&repo=KartMania-Web&theme=white" />
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=antoniovelascodev&repo=KartMania-Web&theme=white"/>
+<a href="https://antoniovelascodev.github.io/KartMania/">Link to Website</a>
 </a> 
 <img src="https://skillicons.dev/icons?i=html,css&perline=14" />      
 
