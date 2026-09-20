@@ -15,26 +15,29 @@ And remember: <i>"don't judge a book by its cover or a developer by their GitHub
   </ul>
 </div>
 
-<!--icons-->
-<h5>Backend</h5>
-<img src="https://skillicons.dev/icons?i=java,mysql&perline=14" />      
-<h5>Frontend</h5>
-<img src="https://skillicons.dev/icons?i=html,css&perline=14" />    
-<h5>Tools</h5>
-<img src="https://skillicons.dev/icons?i=docker,git,github,vscode,eclipse,unity&perline=14" />    
-<h5>OS</h5>
-<img src="https://skillicons.dev/icons?i=windows,linux&perline=14" />    
-
+<!--icons-->	
+<p align="center">
+	<h5>Backend</h5>
+	<img src="https://skillicons.dev/icons?i=java,mysql&perline=14" />      
+	<h5>Frontend</h5>
+	<img src="https://skillicons.dev/icons?i=html,css&perline=14" />    
+	<h5>Tools</h5>
+	<img src="https://skillicons.dev/icons?i=docker,git,github,vscode,eclipse,unity&perline=14" />    
+	<h5>OS</h5>
+	<img src="https://skillicons.dev/icons?i=windows,linux&perline=14" />    
+</p>
 <!--projects-->
 ## Projects
 <a href="https://github.com/antoniovelascodev/CheckHub">
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=antoniovelascodev&repo=CheckHub&theme=tokyonight" />
 </a>  
-<img src="https://skillicons.dev/icons?i=java,postgre,vscode,spring&perline=14" />      
+<img src="https://skillicons.dev/icons?i=java,postgres,vscode,spring,postman&perline=14" />      
 
 <a href="https://github.com/antoniovelascodev/KartMania-Web">
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=antoniovelascodev&repo=KartMania-Web&theme=tokyonight" />
 </a> 
+<img src="https://skillicons.dev/icons?i=html,css&perline=14" />      
+
 <br>
 
 <!--Tech carrer-->
