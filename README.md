@@ -16,26 +16,18 @@ And remember: <i>"don't judge a book by its cover or a developer by their GitHub
 </div>
 
 	<!--icons-->	
-<p align="center">Backend</p>
-<p align="center"><img src="https://skillicons.dev/icons?i=java,mysql&perline=14" /></p>
-
-<p align="center">
-  <a href="https://skillicons.dev">
-	<p>Backend</p>
-	<img src="https://skillicons.dev/icons?i=java,mysql&perline=14" />      
-	<p>Frontend</p>
-	<img src="https://skillicons.dev/icons?i=html,css&perline=14" />    
-	<h5>Tools</h5>
-	<img src="https://skillicons.dev/icons?i=docker,git,github,vscode,eclipse,unity&perline=14" />    
-	<h5>OS</h5>
-	<img src="https://skillicons.dev/icons?i=windows,linux&perline=14" />   
-  </a>
-</p>
-
+<p align="center">BackEnd</p>
+<p align="center"><img src="https://skillicons.dev/icons?i=java,js,mysql&perline=14" /></p>
+<p align="center">FrontEnd</p>
+<p align="center"><img src="https://skillicons.dev/icons?i=html,css,figma&perline=14" /></p>
+<p align="center">Tools</p>
+<p align="center"><img src="https://skillicons.dev/icons?i=docker,git,github,vscode,eclipse,unity&perline=14" /></p>
+<p align="center">OS</p>
+<p align="center"><img src="https://skillicons.dev/icons?i=windows,linux&perline=14" /></p>
 <br>
 <br>
 <!--projects-->
-##Projects
+###Projects
 <a href="https://github.com/antoniovelascodev/CheckHub">
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=antoniovelascodev&repo=CheckHub&theme=tokyonight" />
 </a>  
