@@ -26,6 +26,7 @@ And remember: <i>"don't judge a book by its cover or a developer by their GitHub
 	<h5>OS</h5>
 	<img src="https://skillicons.dev/icons?i=windows,linux&perline=14" />    
 </p>
+<br>
 <!--projects-->
 ## Projects
 <a href="https://github.com/antoniovelascodev/CheckHub">
