@@ -16,15 +16,9 @@ And remember: <i>"don't judge a book by its cover or a developer by their GitHub
 </div>
 
 	<!--icons-->	
+<p>Backend</p>
 <p align="center">
-	<p>Backend</p>
 	<img src="https://skillicons.dev/icons?i=java,mysql&perline=14" />      
-	<p>Frontend</p>
-	<img src="https://skillicons.dev/icons?i=html,css&perline=14" />    
-	<p>Tools</p>
-	<img src="https://skillicons.dev/icons?i=docker,git,github,vscode,eclipse,unity&perline=14" />    
-	<p>OS</p>
-	<img src="https://skillicons.dev/icons?i=windows,linux&perline=14" />    
 </p>
 
 <p align="center">
