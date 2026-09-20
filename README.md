@@ -34,7 +34,7 @@ And remember: <i>"don't judge a book by its cover or a developer by their GitHub
 <img src="https://skillicons.dev/icons?i=java,postgres,vscode,spring,postman&perline=14" />      
 
 <a href="https://github.com/antoniovelascodev/KartMania-Web">
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=antoniovelascodev&repo=KartMania-Web&theme=tokyonight" />
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=antoniovelascodev&repo=KartMania-Web&theme=white" />
 </a> 
 <img src="https://skillicons.dev/icons?i=html,css&perline=14" />      
 
@@ -58,14 +58,14 @@ Agile Collaboration: Participating in cross-functional team workflows using Agil
   <summary><b>💻 GitHub Profile Stats</b></summary>
 <p align="center">
   <a href="https://github.com/antoniovelascodev">
-    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=antoniovelascodev&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=antoniovelascodev&show_icons=true&theme=white&include_all_commits=true&count_private=true"/>
   </a>
   <a href="https://github.com/antoniovelascodev">
-    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=antoniovelascodev&layout=compact&langs_count=8&theme=algolia"/>
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=antoniovelascodev&layout=compact&langs_count=8&theme=white"/>
   </a>
 </p>
 <p align="center">
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=antoniovelascodev&theme=dark&hide_border=true"/>
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=antoniovelascodev&theme=white&hide_border=true"/>
 </p>
 	<!--views-->
 <p align="center"><img src="https://komarev.com/ghpvc/?username=antoniovelascodev&label=Profile%20views&color=0e75b6&style=flat"alt="antoniovelascodev"/> </p>
