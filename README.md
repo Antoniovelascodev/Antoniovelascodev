@@ -29,9 +29,9 @@ And remember: <i>"don't judge a book by its cover or a developer by their GitHub
 
 <p align="center">
   <a href="https://skillicons.dev">
-	<h5>Backend</h5>
+	<p>Backend</p>
 	<img src="https://skillicons.dev/icons?i=java,mysql&perline=14" />      
-	<h5>Frontend</h5>
+	<p>Frontend</p>
 	<img src="https://skillicons.dev/icons?i=html,css&perline=14" />    
 	<h5>Tools</h5>
 	<img src="https://skillicons.dev/icons?i=docker,git,github,vscode,eclipse,unity&perline=14" />    
