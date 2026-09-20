@@ -30,6 +30,7 @@ And remember: <i>"don't judge a book by its cover or a developer by their GitHub
 <a href="https://github.com/antoniovelascodev/CheckHub">
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=antoniovelascodev&repo=CheckHub&theme=tokyonight" />
 </a>  
+<img src="https://skillicons.dev/icons?i=java,postgre,vscode,spring&perline=14" />      
 
 <a href="https://github.com/antoniovelascodev/KartMania-Web">
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=antoniovelascodev&repo=KartMania-Web&theme=tokyonight" />
