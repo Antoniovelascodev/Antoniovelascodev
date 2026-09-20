@@ -29,7 +29,7 @@ And remember: <i>"don't judge a book by its cover or a developer by their GitHub
 ## Projects
 <br>
 <a href="https://github.com/antoniovelascodev/CheckHub">
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=antoniovelascodev&repo=CheckHub&theme=tokyonight" />
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=antoniovelascodev&repo=CheckHub&theme=white" />
 </a>  
 <img src="https://skillicons.dev/icons?i=java,postgres,vscode,spring,postman&perline=14" />      
 
