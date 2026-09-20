@@ -16,8 +16,8 @@ And remember: <i>"don't judge a book by its cover or a developer by their GitHub
 </div>
 
 	<!--icons-->	
-<p>Backend</p>
 <p align="center">
+	<p>Backend</p>
 	<img src="https://skillicons.dev/icons?i=java,mysql&perline=14" />      
 </p>
 
