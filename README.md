@@ -38,7 +38,7 @@ And remember: <i>"don't judge a book by its cover or a developer by their GitHub
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=antoniovelascodev&repo=portfolio&theme=white"/>
 </a>
 <br>
-<a href="https://antoniovelascodev.github.io/portfolio/">Link to Website</a>
+<a href="https://antoniovelascodev.github.io/Portfolio/">Link to Website</a>
 <br>
 <br>
 <a href="https://github.com/antoniovelascodev/KartMania-Web">
