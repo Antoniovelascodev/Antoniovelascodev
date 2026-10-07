@@ -28,10 +28,15 @@ And remember: <i>"don't judge a book by its cover or a developer by their GitHub
 
 ## Projects
 <br>
-<a href="https://github.com/antoniovelascodev/CheckHub">
+<!--<a href="https://github.com/antoniovelascodev/CheckHub">
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=antoniovelascodev&repo=CheckHub&theme=white" />
 </a>  
 <img src="https://skillicons.dev/icons?i=java,postgres,vscode,spring,postman&perline=14" />      
+-->
+
+<a href="https://github.com/antoniovelascodev/portfolio">
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=antoniovelascodev&repo=portfolio&theme=white"/>
+</a>
 
 <a href="https://github.com/antoniovelascodev/KartMania-Web">
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=antoniovelascodev&repo=KartMania-Web&theme=white"/>
